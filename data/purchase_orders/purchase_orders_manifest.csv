@@ -1,0 +1,6 @@
+po_number,order_id,vendor,po_date,currency,taxable_value,cgst,sgst,igst,grand_total,status,test_scenario
+PO-2025-001,OD335011688375083100,Buzz Retail India Private Limited,20-07-2025,INR,7.63,0.00,0.00,1.37,9.00,Approved,Match invoice 1
+PO-2025-002,OD335011688375083100,Flipkart India Private Limited,20-07-2025,INR,132.00,0.00,0.00,0.00,132.00,Approved,Match invoice 2
+PO-2025-003,OD335011688375083100,Buzz Retail India Private Limited,20-07-2025,INR,203.39,0.00,0.00,36.61,240.00,Approved,Match invoice 3
+PO-2025-004,OD-TEST-004,Northstar Office Supplies Private Limited,21-07-2025,INR,5000.00,450.00,450.00,0.00,5900.00,Approved,Amount mismatch test
+PO-2025-005,OD-TEST-005,Aster Technologies Private Limited,22-07-2025,INR,10000.00,900.00,900.00,0.00,11800.00,Approved,Vendor mismatch test
